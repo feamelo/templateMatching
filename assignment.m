@@ -1,5 +1,12 @@
-%%%%%%%%%%% Assignment 2: Where are the airplanes %%%%%%%%%%%
-%%%%%%%%%%%   Fernanda Amaral Melo - 140019855    %%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Test Function %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                                                        %
+% Autora: Fernanda Amaral Melo                                           %
+% Contato: fernanda.amaral.melo@gmail.com                                %
+%                                                                        %
+% Script usado para detecção de um template de avião em                  %
+% uma foto aérea de aeroporto                                            %
+%                                                                        %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clear;
 clc;
