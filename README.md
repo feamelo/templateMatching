@@ -20,7 +20,7 @@ Após isso foi feita uma correlação cruzada no espaço de cores YCbCr seguindo
 ![equation](images/equation.png?raw=true)
 
 
-O maior valor encontrado na correlação indica que o template e o ponto avaliado na imagem são identicos, definindo um threshold é possível, desse modo, detectar a posição de qualquer avião similar na imagem.
+O maior valor encontrado na correlação indica que o template e o ponto avaliado na imagem são identicos, definindo um threshold é possível detectar a posição de qualquer imagem similar ao template.
 
 ![result](images/result.png?raw=true)
 
