@@ -1,8 +1,6 @@
 # templateMatching
 Normalized cross correlation for image template matching
 
-[Este projeto foi desenvolvido em outra plataforma de controle de versionamento e exportada para o GitHub após o término da disciplina Introdução ao processamento de imagens - UnB]
-
 Algoritmo para a determinação da localização aproximada dos aviões estacionados em um aeroporto.
 
 Primeiramente foi feita uma etapa de filtragem composta por:
